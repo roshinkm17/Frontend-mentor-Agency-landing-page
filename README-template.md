@@ -23,7 +23,7 @@ Users should be able to:
 - See hover states for all interactive elements on the page
 
 ### Screenshot
-(https://raw.githubusercontent.com/roshinkm17/Frontend-mentor-Agency-landing-page/main/design/desktop-preview.jpg)
+[!](https://i.imgur.com/dL8mQ01.jpeg)
 
 ## My process
 
